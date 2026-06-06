@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import './styles.css';
 
-const AS = '/assets';
+const AS = `${import.meta.env.BASE_URL}assets`;
 
 const testimonials = [
   ['testimonial-01.png', 'Abhishek M.', 'GTM Engineer at Backblaze', 'Sean made the Backblaze interview process positive, transparent, and reassuring during offer delays.'],

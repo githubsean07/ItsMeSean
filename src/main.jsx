@@ -237,8 +237,8 @@ function App() {
         <section className="split" id="about">
           <div><p className="kicker">About</p><h2>Technical recruiting with product-level attention to signal.</h2></div>
           <div className="copy-stack">
-            <p>I enjoy working with technical things and helping companies hire the right people. My work starts with understanding the real requirement, then building a search plan that balances speed, precision, candidate experience, and hiring-manager trust.</p>
-            <p>I have recruited across backend, frontend, full stack, UX, cloud, data, DevOps, infrastructure, network, cybersecurity, database, Power Platform, and technical leadership roles.</p>
+            <p>I enjoy being close to technical problems, learning how teams build, ship, secure, and scale their systems, then turning that understanding into hiring strategies that produce real signal. My process starts with clarifying the actual business need, separating must-have skills from nice-to-haves, and building a search plan that balances speed, precision, candidate experience, and hiring-manager trust.</p>
+            <p>Across agency, staffing, consulting, and in-house environments, I have recruited backend, frontend, full stack, UX, cloud, data, DevOps, infrastructure, network, cybersecurity, database, Power Platform, and technical leadership talent while supporting teams across the US, LATAM, and APAC.</p>
           </div>
         </section>
 
@@ -279,7 +279,6 @@ function App() {
         <section className="resume-download" id="resume">
           <p className="kicker">Resume</p>
           <h2>Download Sean's senior technical recruiter profile.</h2>
-          <p>This draft resume is based on the LinkedIn details and experience notes provided. It is ready as a placeholder and easy to replace later when the final wording is ready.</p>
           <a className="primary" href={`${AS}/resume/Sean_Del_Rosario_Resume.pdf`} download>Download Resume</a>
         </section>
 

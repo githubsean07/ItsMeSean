@@ -28,3 +28,6 @@ http://localhost:5173
 npm run build
 npm run preview
 ```
+
+
+Inspo/Credits - https://v4.brittanychiang.com/ - Repo origin. Did some changes in design and pov. 
